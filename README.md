@@ -6,9 +6,9 @@
 
 ---
 
-### 🚀 What I'm working on
+### 🚀 Featured Projects
 - **Hallucinated Citation Detection in LLM-Generated Text** — an NLP framework that flags fabricated academic citations, tested on 5,000+ papers (78% detection accuracy). Co-authored a related manuscript currently under review at IGI Global.
-- **Cloud-Driven Red Team Automation Engine** — a cloud-based OSINT toolkit that aggregates leaked credentials and cuts manual recon time by ~50%.
+- **Cloud-Driven Red Team Automation Engine** *(Capstone, 7th sem)* — a cloud-based OSINT toolkit that aggregates leaked credentials, cutting manual recon time by ~50%.
 
 ### 🛠️ Tech I use
 `Python` `SQL` `R` `React` `Node.js`
