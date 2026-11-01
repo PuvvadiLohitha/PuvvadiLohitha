@@ -3,6 +3,7 @@
 Welcome to my GitHub portfolio! 
 
 I am a first-year **M.Tech Data Science student at M.S. Ramaiah Institute of Technology (MSRIT), Bangalore**,
+
 🎓 B.E. Computer Science (Honours in Cloud Computing) — RMK Engineering College, Chennai
 🔬 Interested in **NLP, Machine Learning & Applied AI Research**
 💼 Ex-AI Intern @ MedSocio HealthTech — built ML-based clinical decision support tools
